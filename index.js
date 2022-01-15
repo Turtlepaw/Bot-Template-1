@@ -11,6 +11,9 @@
 // ⚠️ The Discord.jsh docs can be found here: https://jsh.trtle.xyz/#/
 // ⚠️ The Discord.js docs can be found here: https://discord.js.org/#/docs
 
+//Testing this
+module.exports = null;
+
 //Import all modules
 const Discord = require("discord.js"); //Not really used in this code but handy.
 const jsh = require("discordjsh"); //Discord JS (bot) handler
